@@ -1,4 +1,4 @@
-package com.neo.model;
+package com.comtop.topcloud.model;
 
 public class Secret {
 
@@ -16,6 +16,16 @@ public class Secret {
      * appSecret
      */
     private String appSecret;
+
+    /**
+     * createTime
+     */
+    private String createTime;
+
+    /**
+     * updateTime
+     */
+    private String updateTime;
 
     public String getAppId() {
         return appId;
@@ -39,5 +49,21 @@ public class Secret {
 
     public void setAppSecret(String appSecret) {
         this.appSecret = appSecret;
+    }
+
+    public String getCreateTime() {
+        return createTime;
+    }
+
+    public void setCreateTime(String createTime) {
+        this.createTime = createTime;
+    }
+
+    public String getUpdateTime() {
+        return updateTime;
+    }
+
+    public void setUpdateTime(String updateTime) {
+        this.updateTime = updateTime;
     }
 }

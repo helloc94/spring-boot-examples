@@ -1,4 +1,4 @@
-package com.neo;
+package com.comtop.topcloud;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
@@ -7,11 +7,11 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-@MapperScan("com.neo.mapper")
-public class EurekaClientApplication {
+@MapperScan("com.comtop.topcloud.mapper")
+public class AuthCoreApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EurekaClientApplication.class, args);
+        SpringApplication.run(AuthCoreApplication.class, args);
     }
 
 }

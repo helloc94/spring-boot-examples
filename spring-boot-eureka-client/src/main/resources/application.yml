@@ -1,8 +1,8 @@
 spring:
   application:
-    name: eureka-client
+    name: topcloud-auth
   datasource:
-#    driverClassName: com.mysql.jdbc.Driver
+    #    driverClassName: com.mysql.jdbc.Driver
     driverClassName: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://10.10.50.7:3306/gateway_zhoujun?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
     username: jadp_csg
@@ -14,12 +14,9 @@ eureka:
     prefer-ip-address: true
     ip-address: 10.10.34.137
     instance-id: 10.10.34.137:8080
-    #eureka.instance.instance-id=10.244.0.230:8080
-    #eureka.instance.ip-address=10.244.0.230
   client:
     service-url:
-      #defaultZone: http://10.10.34.107:8888/eureka/
       defaultZone: http://SuperAdmin:Ctp8899@10.10.3.126:30101/eureka
 mybatis:
-  mapper-locations: classpath*:com/neo/mapper/impl/*Mapper.xml
-  type-aliases-package: com.neo.model
+  mapper-locations: classpath*:com/comtop/topcloud/mapper/impl/*Mapper.xml
+  type-aliases-package: com.comtop.topcloud.model

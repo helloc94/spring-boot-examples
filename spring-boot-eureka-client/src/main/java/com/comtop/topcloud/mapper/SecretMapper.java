@@ -1,6 +1,6 @@
-package com.neo.mapper;
+package com.comtop.topcloud.mapper;
 
-import com.neo.model.Secret;
+import com.comtop.topcloud.model.Secret;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ public interface SecretMapper {
 
     Secret getOne(String id);
 
-    void insert(Secret secret);
+    int insert(Secret secret);
 
-    void update(Secret secret);
+    int update(Secret secret);
 
-    void delete(String id);
+    int delete(String id);
 }
