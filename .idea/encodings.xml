@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-simple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-banner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-banner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-commandLineRunner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-commandLineRunner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-eureka-client/target/classes/META-INF/maven/com.neo/spring-boot-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-fastDFS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-fastDFS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-file-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-helloWorld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-helloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jpa-thymeleaf-curd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jpa-thymeleaf-curd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-multi-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-multi-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-mulidatasource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-xml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-package-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-package-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

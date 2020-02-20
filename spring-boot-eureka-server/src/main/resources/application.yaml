@@ -2,17 +2,19 @@ server:
   port: 8888
 spring:
   application:
-    name: eurka-server
-#  security:
-#    user:
-#      name: admin
-#      password: 123456
+    name: eureka-server
+  security:
+    basic:
+      enabled: true
+    user:
+      name: admin
+      password: admin123456
 eureka:
   instance:
-    hostname: 10.10.34.107
+    hostname: 127.0.0.1
+    prefer-ip-address: true
   client:
-    registerWithEureka: false #是否向服务注册中心注册自己
-    fetchRegistry: false #是否检索服务
-    serviceUrl: #服务注册中心的配置内容，指定服务注册中心的位置
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-#      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@${eureka.instance.hostname}:${server.port}/eureka/
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@${eureka.instance.hostname}:${server.port}/eureka/
